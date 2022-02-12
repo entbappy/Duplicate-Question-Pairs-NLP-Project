@@ -22,7 +22,7 @@ A NLP project to find weather given 2 questions are same are not semantically sp
 Clone the repository
 
 ```bash
-
+https://github.com/entbappy/Duplicate-Question-Pairs-NLP-Project
 ```
 ### STEP 01- Create a conda environment after opening the repository
 

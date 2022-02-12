@@ -11,6 +11,10 @@ Currently, Quora uses a Random Forest model to identify duplicate questions. In 
 # About this project:
 A NLP project to find weather given 2 questions are same are not semantically speaking.
 
+# demo:
+![image](https://user-images.githubusercontent.com/68845761/153724208-029178e2-2f19-47b6-9bff-0e035ccee047.png)
+![image](https://user-images.githubusercontent.com/68845761/153724226-dbba3d6b-a3db-4369-b911-48fbc64e3313.png)
+
 
 # Dataset has been used:
 
